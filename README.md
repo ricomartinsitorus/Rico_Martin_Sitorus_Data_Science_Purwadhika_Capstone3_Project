@@ -31,7 +31,7 @@ Model:
 - Our data show multicollinearity between the variables, hence we try to conside tree-based regressor that are able to handle multicollinearity better.
 - From our oubservation, the Ridge with hyperparameter tuning is the best for Linear Model, while XGBoost is the best model for tree-based regressor, as the tree
 - Among these models, we found that the XGboost regressor is the best model to predict the price
-- XGboost regressor able to represent around 79.1 of the data variances with the price accuracy about 19.6% (the price can varies around 19.6% from the actual price)
+- XGboost regressor able to represent around 79.1% of the data variances with the price accuracy about 19.6% (the price can varies around 19.6% from the actual price)
 
 Recommendations : 
 
